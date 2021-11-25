@@ -1,4 +1,4 @@
-module io.rocktest
+module github.com/ArnaudGallardo/rocktest-go/rocktest
 
 go 1.16
 
