@@ -6,7 +6,7 @@ import (
 
 	"github.com/pborman/getopt/v2"
 
-	"io.rocktest/rocktest/scenario"
+	"github.com/ArnaudGallardo/rocktest-go/rocktest/scenario"
 
 	log "github.com/sirupsen/logrus"
 )

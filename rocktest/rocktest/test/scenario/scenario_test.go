@@ -3,7 +3,7 @@ package scenarioTest
 import (
 	"testing"
 
-	"io.rocktest/rocktest/scenario"
+	"github.com/ArnaudGallardo/rocktest-go/rocktest/scenario"
 )
 
 func TestGetString1(t *testing.T) {

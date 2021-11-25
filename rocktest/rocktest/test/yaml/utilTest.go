@@ -6,7 +6,7 @@ import (
 	log "github.com/sirupsen/logrus"
 	"gopkg.in/yaml.v3"
 
-	"io.rocktest/rocktest/scenario"
+	"github.com/ArnaudGallardo/rocktest-go/rocktest/scenario"
 )
 
 func initLog() {

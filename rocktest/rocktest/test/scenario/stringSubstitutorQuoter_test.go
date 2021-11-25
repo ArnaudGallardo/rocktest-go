@@ -3,8 +3,8 @@ package scenarioTest
 import (
 	"testing"
 
-	"io.rocktest/rocktest/scenario"
-	"io.rocktest/rocktest/text"
+	"github.com/ArnaudGallardo/rocktest-go/rocktest/scenario"
+	"github.com/ArnaudGallardo/rocktest-go/rocktest/text"
 )
 
 func TestSubstQuoter1(t *testing.T) {

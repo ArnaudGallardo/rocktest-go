@@ -3,8 +3,8 @@ package scenarioTest
 import (
 	"testing"
 
+	"github.com/ArnaudGallardo/rocktest-go/rocktest/scenario"
 	log "github.com/sirupsen/logrus"
-	"io.rocktest/rocktest/scenario"
 )
 
 func initLog() {

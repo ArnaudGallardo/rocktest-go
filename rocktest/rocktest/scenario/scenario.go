@@ -10,8 +10,8 @@ import (
 	"strconv"
 	"strings"
 
+	"github.com/ArnaudGallardo/rocktest-go/rocktest/text"
 	"gopkg.in/yaml.v3"
-	"io.rocktest/rocktest/text"
 
 	log "github.com/sirupsen/logrus"
 )
