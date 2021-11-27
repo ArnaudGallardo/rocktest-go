@@ -1,8 +1,0 @@
-- var: val=value
-- sleep: 1
-- display: test
-- display: hello
-  desc: this is a step
-  params:
-    message: youpi
-- display: ${HOME}
